@@ -937,9 +937,9 @@ UICorner_9.Parent = submit
 ------------------------------------------------- ACCOUNTS: ------------------------------------------------------------------
 
 submit.MouseButton1Click:Connect(function(subm)
-	if Name.Text == "PospolitGames" and Pass.Text == "Batman55" then
+	if Name.Text == "GTG75c3" and Pass.Text == "Batman55" then
 		INFOTEXT.TextColor3 = Color3.fromRGB(0, 255, 0)
-		INFOTEXT.Text = "Welcome back, PospolitGames"
+		INFOTEXT.Text = "Welcome back, GTG75c3"
 		Pass.BorderColor3 = Color3.fromRGB(0, 255, 0)
 		Name.BorderColor3 = Color3.fromRGB(0, 255, 0)
 		INFOTEXT.Visible = true
